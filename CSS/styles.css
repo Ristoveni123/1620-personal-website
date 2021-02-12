@@ -1,9 +1,37 @@
+
+
+html {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1em;
+    color:#563635;
+    line-height: 32px; 
+}
+.container {
+    width: 1000px;
+    margin: center;
+    background-color: #88736D      
+}   
 body{
-      background-color:lightgoldenrodyellow;
-      background-repeat: repeat-y;
-      
-  }
-  h1 {
-      background-color: lightseagreen;
-  }
-  
+    background-color:#F2E7BB;
+    padding: 1rem; 
+}
+h1 {
+    background-color:#C8BA83;
+    padding: 1rem;  
+    margin: 1rem;    
+    border: 2px solid black; 
+    font-family: 'Lexend Mega', sans-serif; 
+    font-weight: bold;
+}
+section {
+    background-color:#78C091;
+    font-size: 2em;
+    font-family: 'Pacifico', cursive;
+    border: 2px dotted; 
+}
+nav {
+    background-color:#78C091; 
+    font-family: 'Pacifico', cursive;
+    font-size: 1em;
+    font-family: 'Pacifico', cursive;
+}
